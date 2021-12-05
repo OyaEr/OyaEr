@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **oyaerdayi@gmail.com**
 
